@@ -1,0 +1,22 @@
+{
+  "name": "gassist-nefit-easy",
+  "version": "1.0.0",
+  "description": "Server side to a personal google assistant (DialogFlow) project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js --test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Silver-Void/gassist-nefit-easy.git"
+  },
+  "author": "Sven Haaijman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Silver-Void/gassist-nefit-easy/issues"
+  },
+  "homepage": "https://github.com/Silver-Void/gassist-nefit-easy#readme",
+  "dependencies": {
+    "nefit-easy-commands": "^2.0.0"
+  }
+}
